@@ -11,7 +11,6 @@
 
 ---
 
-###  About Me
 
 -  I love playing badminton and gaming (especially Genshin Impact).
 -  I enjoy drawing and creating fun projects—sometimes I make silly code for “dumb machines.”
@@ -19,7 +18,6 @@
 
 ---
 
-###  Connect with Me
 
 - [GitHub: EHEGUY](https://github.com/EHEGUY)
 - [LinkedIn: Siddhant Tantarpale](https://www.linkedin.com/in/siddhant-tantarpale-620375271)
