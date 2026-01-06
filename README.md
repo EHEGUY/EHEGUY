@@ -1,4 +1,4 @@
-# Hi, I'm Siddhant! 
+# Hi, I'm Siddhant
 
 First-year student learning **AI & ML** at Dr. Homi Bhabha State University, aspiring to become a software developer. Passionate about AI, optimization algorithms, and building innovative solutions with code. Currently coding in **Python, JavaScript, Go, and React** — always eager to learn more!
 
