@@ -1,25 +1,37 @@
-# Hi there, I'm Sidd! 
+# Hi there, I'm Siddhant! 👋
 
-<img src="https://github.com/EHEGUY.png" width="100" align="right" alt="EHEGUY's avatar" />
+First-year student learning **AI & ML** at Dr. Homi Bhabha State University, aspiring to become a software developer. Passionate about AI, optimization algorithms, and building innovative solutions with code. Currently coding in **Python, JavaScript, Go, and React** — always eager to learn more!
 
- **First-year student** learning AI & ML, aspiring to become a software developer.  
- Passionate about **AI, robotics, and building cool things** with code.  
- Coding mainly in **C** and **Python**always eager to learn more!  
- Worked on:  
-&nbsp;&nbsp;&nbsp;&nbsp; **Optimal Solar Project Placement Positioner**  
-&nbsp;&nbsp;&nbsp;&nbsp;_A project to find the best spots for solar panels and boost green energy!_
+##  Projects I've Worked On
+
+**Optimal Solar Panel Placement Optimizer** — Leading energy efficiency innovation  
+A project to find the best spots for solar panels using heuristic algorithms, time series analysis, and weather data to boost green energy output and reduce costs!
+
+**Calculator** — A versatile mathematical tool built with Go  
+Developed a web-based calculator using Golang, HTML5, and JavaScript to efficiently execute various mathematical functions with optimized precision and speed.
+
+## What I'm Into
+
+- **Artificial Intelligence & Machine Learning**
+- **Full-Stack Development** (React.js, Node.js, MongoDB, PostgreSQL)
+- **Algorithm Optimization** & Problem-Solving
+- **Cloud Platforms** (AWS/GCP) & Docker
+- **Sustainable Technology Solutions**
+
+##  Currently Learning
+
+- Advanced AI methodologies and ML algorithms
+- Building scalable web applications
+- Cloud deployment and containerization
+- Data analysis with NumPy and Pandas
+
+##  Let's Connect!
+
+- **Email:** siddtantarpale@gmail.com
+- **GitHub:** [EHEGUY](https://github.com/EHEGUY)
+- **LinkedIn:** [Siddhant Tantarpale](https://linkedin.com/in/siddhant-tantarpale)
+- **Location:** Mumbai, Maharashtra, India
 
 ---
 
-
--  I love playing badminton and gaming (especially Genshin Impact).
--  I enjoy drawing and creating fun projects—sometimes I make silly code for “dumb machines.”
--  Always curious, always learning, and excited to connect with like-minded people!
-
----
-
-
-- [GitHub: EHEGUY](https://github.com/EHEGUY)
-- [LinkedIn: Siddhant Tantarpale](https://www.linkedin.com/in/siddhant-tantarpale-620375271)
-
-Let’s build a smarter, greener future together! 
+*I build because im curious, and because i can't not.* 
