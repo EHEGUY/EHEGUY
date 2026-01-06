@@ -29,7 +29,6 @@ Developed a web-based calculator using Golang, HTML5, and JavaScript to efficien
 ##  Let's Connect!
 
 - **Email:** siddtantarpale@gmail.com
-- **GitHub:** [EHEGUY](https://github.com/EHEGUY)
 - **LinkedIn:** [Siddhant Tantarpale](https://linkedin.com/in/siddhant-tantarpale)
 - **Location:** Mumbai, Maharashtra, India
 
