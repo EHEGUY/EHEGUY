@@ -1,6 +1,6 @@
 # Hi, I'm Siddhant
 
-First-year student learning **AI & ML** at Dr. Homi Bhabha State University,  trying to do better in AI, optimization algorithms, and building innovative solutions with code.
+First-year student learning **AI & ML** at Dr. Homi Bhabha State University,  trying to do better in AI, optimization algorithms,
 Currently coding in **Python, C, Go, and React** 
 
 ##  Projects I've Worked On
@@ -13,15 +13,14 @@ Developed a web-based calculator using Golang, HTML5, and JavaScript to efficien
 ## What I'm Into
 
 - **Artificial Intelligence & Machine Learning**
-- **Full-Stack Development** (React.js, Node.js, MongoDB, PostgreSQL)
+- **Full-Stack Development** (React.js, Node.js, FASTAPI)
 - **Algorithm Optimization** & Problem-Solving
 - **Cloud Platforms** (AWS/GCP) & Docker
-- **Sustainable Technology Solutions**
+
 
 ##  Currently Learning
 
 - Advanced AI methodologies and ML algorithms
-- Building scalable web applications
 - Cloud deployment and containerization
 - Data analysis with NumPy and Pandas
 
