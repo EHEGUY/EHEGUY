@@ -5,8 +5,7 @@ Currently coding in **Python, C, Go, and React**
 
 ##  Projects I've Worked On
 
-**Optimal Solar Panel Placement Optimizer** — Leading energy efficiency innovation  
-A project to find the best spots for solar panels using heuristic algorithms, time series analysis, and weather data to boost green energy output and reduce costs
+
 
 **Calculator** — A versatile mathematical tool built with Go  
 Developed a web-based calculator using Golang, HTML5, and JavaScript to efficiently execute various mathematical functions with optimized precision and speed.
