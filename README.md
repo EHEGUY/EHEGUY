@@ -7,7 +7,7 @@ Currently coding in **Python, C, Go, and React**
 
 
 
-**Calculator** — A versatile mathematical tool built with Go  
+**Calculator** A versatile mathematical tool built with Go  
 Developed a web-based calculator using Golang, HTML5, and JavaScript to efficiently execute various mathematical functions with optimized precision and speed.
 
 ## What I'm Into
