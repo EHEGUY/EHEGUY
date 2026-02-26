@@ -10,6 +10,10 @@ Currently coding in **Python, C, Go, and React**
 **Calculator** A versatile mathematical tool built with Go  
 Developed a web-based calculator using Golang, HTML5, and JavaScript to efficiently execute various mathematical functions with optimized precision and speed.
 
+**Deepfake Detector** An AI-driven application to identify manipulated media
+
+Developed a deepfake detection tool utilizing TypeScript and machine learning concepts to effectively analyze and verify the authenticity of digital content.
+
 ## What I'm Into
 
 - **Artificial Intelligence & Machine Learning**
