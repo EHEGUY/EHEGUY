@@ -32,8 +32,6 @@ Developed a deepfake detection tool utilizing TypeScript and machine learning co
 ##  Let's Connect!
 
 - **Email:** siddtantarpale@gmail.com
-
-## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/siddhant-tantarpale-620375271/) 
 
 - **Location:** Mumbai, Maharashtra, India
