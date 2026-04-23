@@ -13,6 +13,8 @@ Developed a web-based calculator using Golang, HTML5, and JavaScript to efficien
 **Deepfake Detector** An AI-driven application to identify manipulated media
 Developed a deepfake detection tool utilizing TypeScript and machine learning concepts to effectively analyze and verify the authenticity of digital content.
 
+**OmniMed** is a unified diagnostic suite for Neurology (MRI), Orthopaedics (X-ray), and Dermatology (Skin) built with PyTorch and Next.js. It utilizes a Singleton Model-Loading architecture to reduce peak VRAM usage by 57%, enabling high-fidelity clinical inference on standard 6GB GPUs. The system eliminates OOM crashes through dynamic CUDA cache management while providing explainable insights via Grad-CAM visual verification.
+
 ## What I'm Into
 
 - **Artificial Intelligence & Machine Learning**
