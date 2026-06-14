@@ -22,6 +22,11 @@ Developed a deepfake detection tool utilizing TypeScript and machine learning co
 - **Algorithm Optimization** & Problem-Solving
 - **Cloud Platforms** (AWS/GCP) & Docker
 
+## Open Source Contributions
+Active Open Source Contributor through GirlScript Summer of Code (GSSoC).
+Ranked **#520 globally among 40,000+ participants in GSSoC.**
+Contributed to community-driven software projects through code contributions, issue resolution, and collaborative development.
+Experienced with Git, GitHub workflows, pull requests, code reviews, and open-source collaboration.
 
 ##  Currently Learning
 
