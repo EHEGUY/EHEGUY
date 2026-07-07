@@ -5,7 +5,7 @@ Currently coding in **Python, C, Go, and React**
 
 ##  Projects I've Worked On
 
-**SIDDWRITES**A  text humanization SaaS
+**SIDDWRITES** A  text humanization SaaS
 Built a full-stack SaaS platform that rewrites AI-generated text to bypass detection algorithms by dynamically adjusting burstiness and perplexity metrics. Engineered a two-pass humanization engine using FastAPI and LLaMA 3.3 70B, delivering results in under 3 seconds. Atomic PostgreSQL RPC functions, and a multi-layer prompt injection sanitization pipeline. Deployed a decoupledVanilla JS frontend on Vercel with a Dockerized FastAPI backend on HuggingFace Spaces, backed by Supabase for auth, RLS-enforced data access, and usage-tracked free and premium tiers
 
 **Deepfake Detector** An AI-driven application to identify manipulated media
