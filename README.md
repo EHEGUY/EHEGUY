@@ -5,10 +5,8 @@ Currently coding in **Python, C, Go, and React**
 
 ##  Projects I've Worked On
 
-
-
-**Calculator** A versatile mathematical tool built with Go  
-Developed a web-based calculator using Golang, HTML5, and JavaScript to efficiently execute various mathematical functions with optimized precision and speed.
+**SIDDWRITES**A  text humanization SaaS
+Built a full-stack SaaS platform that rewrites AI-generated text to bypass detection algorithms by dynamically adjusting burstiness and perplexity metrics. Engineered a two-pass humanization engine using FastAPI and LLaMA 3.3 70B, delivering results in under 3 seconds. Atomic PostgreSQL RPC functions, and a multi-layer prompt injection sanitization pipeline. Deployed a decoupledVanilla JS frontend on Vercel with a Dockerized FastAPI backend on HuggingFace Spaces, backed by Supabase for auth, RLS-enforced data access, and usage-tracked free and premium tiers
 
 **Deepfake Detector** An AI-driven application to identify manipulated media
 Developed a deepfake detection tool utilizing TypeScript and machine learning concepts to effectively analyze and verify the authenticity of digital content.
