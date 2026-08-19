@@ -32,7 +32,7 @@ Developed a deepfake detection tool utilizing TypeScript and machine learning co
 - Cloud deployment and containerization
 - Data analysis with NumPy and Pandas
 
-##  Let's Connect!
+##  Let's Connect
 
 - **Email:** siddtantarpale@gmail.com
 - **LinkedIn:** [Siddhant Tantarpale](https://linkedin.com/in/siddhant-tantarpale)
