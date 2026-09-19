@@ -1,6 +1,6 @@
 # Hi, I'm Siddhant
 
-First-year student learning **AI & ML** at Dr. Homi Bhabha State University,  trying to do better in AI, optimization algorithms,
+Second-year student learning **AI & ML** at Dr. Homi Bhabha State University,  trying to do better in AI, optimization algorithms,
 Currently coding in **Python, C, Go, and React** 
 
 ##  Projects I've Worked On
